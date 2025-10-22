@@ -57,5 +57,5 @@ Ders-Asistani-Chatbot/
 
 ## ✨ GELİŞTİRİCİ
 - 👩‍💻 <Simay Doğu>  
-GAIH GenAI Bootcamp — 2025  
+AKBANK GenAI Bootcamp — 2025  
 📧 <simaydogu@stu.khas.edu.tr>
